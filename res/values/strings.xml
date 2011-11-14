@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Ελεγκτής ΑΦΜ</string>
+    <string name="intro">Παρακαλώ εισάγετε ΑΦΜ προς αναζήτηση</string>
+    <string name="vat">ΑΦΜ</string>
+    <string name="tax_office_code">Κωδικός ΔΟΥ</string>
+    <string name="tax_office_description">Περιγραφή ΔΟΥ</string>
+    <string name="vat_indication">Ένδειξη ΑΦΜ</string>
+    <string name="name">Επωνυμία</string>
+    <string name="title">Τίτλος</string>
+    <string name="address">Οδός Αλληλογραφίας</string>
+    <string name="number">Αριθμός Αλληλογραφίας</string>
+    <string name="zip_code">Ταχ. Κωδικός Αλληλογραφίας</string>
+    <string name="area">Περιοχή Αλληλογραφίας</string>
+    <string name="start_date">Ημερομηνία Έναρξης</string>
+    <string name="end_date">Ημερομηνία Διακοπής</string>
+    <string name="telephone">Τηλέφωνο Επιχείρησης</string>
+    <string name="fax">Fax Επιχείρησης</string>
+    <string name="activity">Κύρια Δραστηριότητα</string>
+    <string name="activity_description">Περιγραφή Κύριας Δραστηριότητας</string>
+    <string name="empty">-</string>
+    <string name="error">Παρακαλώ εισάγετε έγκυρο ΑΦΜ</string>
+</resources>
